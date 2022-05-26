@@ -1,3 +1,11 @@
+## dfdao Arena Update
+
+For dfdao's [arena](https://arena.dfdao.xyz/) mode, we reduced the MimC hashing difficulty from 220 rounds to 5.  
+
+This fork of `df-explorer` will work for Arena matches. *DO NOT USE THIS FOR NORMAL DARK FOREST*.  
+
+*ALSO DO NOT USE THE DARK FOREST REMOTE EXPLORER FOR ARENA -> YOU WILL GET THE WRONG MAP DATA*.  
+
 <div align="center">
 	<img width="600" src="README/DF-EXPLORER-S.png" alt="DF EXPLORER">
 	<br />
