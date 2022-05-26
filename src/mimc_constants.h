@@ -7,7 +7,7 @@
 class MimcConstants
 {
 public:
-    static const int32_t rounds = 220;
+    static const int32_t rounds = 5;
 
 public:
     static MimcConstants &getInstance()
